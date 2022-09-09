@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  text-align: center;
+  /* background-color: #538ffb; */
+  background-image: url("https://img.freepik.com/free-vector/silhouette-skyline-illustration_53876-78786.jpg?w=2000");
+}
+
+input {
+  margin-top: 1vh;
+  text-align: center;
+  padding: 15px;
+}
+
+.meaningstyle {
+  margin-top: 20px;
+  font-size: xx-large;
+}
+
+.heading {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
